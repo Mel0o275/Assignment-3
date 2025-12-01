@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.11",
+    "uuid": "^13.0.0"
+  }
+}
